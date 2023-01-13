@@ -1,0 +1,13 @@
+p>img{
+    width: 20%;
+    height:150px;
+    padding:10px;
+    margin:5px;
+    border-radius:10px;
+    background-color:yellow;
+    box-shadow:blur-radius 5px blue;
+}
+p>img:hover{
+    box-shadow:blur-radius 20px red;
+    background-color:aqua;
+}

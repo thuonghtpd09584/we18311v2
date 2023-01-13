@@ -1,0 +1,23 @@
+body {
+    justify-content: center;
+    text-align: center;
+    display:flex;
+    height:100vh;
+}
+.menu{
+    font-variant:small-caps;
+    font-size:20px;
+    text-decoration-line: none;
+    color:#fff;
+}
+.menu>a{
+    color:blue;
+    text-decoration: none;
+}
+.menu>a:visited{
+    color:green;
+}
+.menu>a:hover{
+    color:red;
+    text-decoration: underline;
+}

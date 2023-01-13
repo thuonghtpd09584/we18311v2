@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+h2{
+    color:aqua;
+}
+em{
+    pont-variant:small-caps;
+    pont-size:20px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+.doan-1{
+    color:red;
+}
+.doan-2{
+    color:blueviolet;
+}
+.doan-3{
+    color:green;
+}
+strong{
+color:brown;
+}
