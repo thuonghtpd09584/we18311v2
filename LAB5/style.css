@@ -1,0 +1,52 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+p>img {
+    background-color: rgba(220, 220, 0, 0.998);
+    width: 150px;
+    height: 220px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px #35ff35;
+    padding: 8px;
+    margin: 15px;
+}
+
+p>img:hover {
+    box-shadow: 0px 0px 20px rgb(172, 0, 0);
+    background-color: rgb(75, 255, 255);
+}
+
+.sanPham {
+    float: left;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px rgb(244, 219, 219);
+    margin: 5px;
+    padding: 20px;
+}
+
+.sanPham>img {
+    width: 150px;
+    height: 160px;
+    border-radius: 20px;
+}
+
+.sanPham .ten {
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    color: rgb(23, 23, 248);
+}
+
+.sanPham .gia {
+    font-size: large;
+    color: rgb(255, 58, 58);
+    font-weight: bolder;
+    text-align: center;
+}
+
+.sanPham .gia del {
+    color: gray;
+}
