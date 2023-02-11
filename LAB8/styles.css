@@ -1,0 +1,14 @@
+.body{
+
+}
+.title{
+    width:450px;
+    height:650px;
+    background-color: white;
+    box-shadow: 0px 2px 3px 3px rgb(231, 220, 220);
+    margin:auto;
+    border-radius: 6px;
+    padding:20px;
+    display: flex;
+    flex-direction: column;
+}
